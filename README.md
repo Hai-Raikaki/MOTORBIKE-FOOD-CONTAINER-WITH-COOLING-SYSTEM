@@ -7,6 +7,16 @@ Group size: 5
 
 Leader: To Giang Tuan Anh (https://github.com/KyleTo132)
 
+<h2>Module connection and schematic</h2>
+
+<p align="center">
+<img width="1005" height="686" alt="image" src="https://github.com/user-attachments/assets/63d23c82-4440-47d3-bcca-402b83d7d9f2" />
+</p>
+
+<p align="center">
+<img width="719" height="592" alt="image" src="https://github.com/user-attachments/assets/37910989-802f-4062-8611-e8240146e21b" />
+</p>
+
 <h2>🧊 3D illustration</h2>
 <p align="center">
 <img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/ada823f7-d9ab-473e-b3ca-b0aeb437b1ca" />
@@ -26,7 +36,11 @@ Leader: To Giang Tuan Anh (https://github.com/KyleTo132)
 
 <h2>🏍️ Complete product</h2>
 <p align="center">
+<img width="680" height="767" alt="image" src="https://github.com/user-attachments/assets/ef273780-38c2-4d65-9cd2-39a3e96bc889" />
+</p>
 
+<p align="center">
+<img width="544" height="306" alt="Picture2" src="https://github.com/user-attachments/assets/7692e46c-da0d-45a1-bd42-106f07636d5d" />
 </p>
 
 <p align="center">
