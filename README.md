@@ -26,7 +26,7 @@ Leader: To Giang Tuan Anh (https://github.com/KyleTo132)
 
 <h2>🏍️ Complete product</h2>
 <p align="center">
-<img width="994" height="746" alt="image" src="https://github.com/user-attachments/assets/42f0b4f3-65ec-4306-a0d5-2cff5b63eea7" />
+
 </p>
 
 <p align="center">
