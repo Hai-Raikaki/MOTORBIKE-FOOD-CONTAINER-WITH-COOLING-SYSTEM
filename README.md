@@ -1,7 +1,7 @@
 # MOTORBIKE-FOOD-CONTAINER-WITH-COOLING-SYSTEM
 **Description:** An auto cooling food preservation tank that can be put on the motorbike and a LCD display all temperature information.
 
-**Courses:**  `Capstone Design `
+**Courses:**  `Capstone Design`
 
 Group size: 5
 
