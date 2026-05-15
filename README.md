@@ -5,7 +5,7 @@
 
 Group size: 5
 
-Leader: To Giang Tuan Anh (https://github.com/KyleTo132)
+Group leader: To Giang Tuan Anh (https://github.com/KyleTo132)
 
 <h2>Module connection and schematic</h2>
 
