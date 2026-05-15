@@ -18,6 +18,9 @@ Leader: To Giang Tuan Anh (https://github.com/KyleTo132)
 </p>
 
 <h2>🧊 3D illustration</h2>
+
+I and my leader support to each other in drawing 3D illustration for the project. 
+
 <p align="center">
 <img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/ada823f7-d9ab-473e-b3ca-b0aeb437b1ca" />
 </p>
